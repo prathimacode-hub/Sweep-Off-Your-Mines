@@ -1,5 +1,7 @@
 # SWEEP OFF YOUR MINES
 
+## FROST HACKS 2021
+
 ## INSPIRATION
 
 Inspiration from basic minesweeper game 
