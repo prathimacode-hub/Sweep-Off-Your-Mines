@@ -8,6 +8,8 @@ Inspiration from basic minesweeper game
 
 This project is an antique minesweeper but with a pinch of twist embedded in it. It would definitely raise out your eyebrows. So in basic minesweeper game, we select blocks which can be shown. But here the puzzle is, you won't find any blocks. It's all a mere luck and random clicks. Let's see how far you can get through this.
 
+Youtube Link : https://www.youtube.com/watch?v=1TbO6xezbEY
+
 ## HOW IT'S BUILT
 
 This hack has been built up using pure python where we had added main file, engine file and evil file. Main file does the functionalities, engine file does the operations needed to activate main file and evil file which would show up danger when pressed and game gets over.
